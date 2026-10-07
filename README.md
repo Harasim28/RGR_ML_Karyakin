@@ -57,7 +57,7 @@ RGR/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <URL_репозитория>
+git clone https://github.com/Harasim28/RGR_ML_Karyakin.git
 cd RGR
 ```
 
@@ -132,7 +132,7 @@ streamlit run app.py
 ## Ссылки
 
 - **GitHub:** https://github.com/Harasim28/RGR_ML_Karyakin
-- **Streamlit Cloud:** [ссылка появится после деплоя]
+- **Streamlit Cloud:** https://rgr-ml-karyakin.streamlit.app
 
 ---
 
